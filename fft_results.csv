@@ -1,0 +1,9 @@
+﻿File,Method,Output
+sine_500Hz.wav,Multi-Thread,39.24936809539795
+sine_500Hz.wav,Single-Thread,301.3262379169464
+sine_rising_amplitude.wav,Multi-Thread,42.9830819606781
+sine_rising_amplitude.wav,Single-Thread,300.0957992076874
+white_noise.wav,Multi-Thread,39.49026231765747
+white_noise.wav,Single-Thread,302.3875162601471
+combined_sine_waves.wav,Multi-Thread,39.42408299446106
+combined_sine_waves.wav,Single-Thread,303.15631461143494
